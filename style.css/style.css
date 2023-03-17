@@ -7,3 +7,14 @@
     border: 3px solid lightblue
 }
 
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: #467399;
+  }
+
+  td {
+    background-color: #96D4D4;
+  }
