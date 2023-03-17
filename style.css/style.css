@@ -13,8 +13,17 @@ table, th, td {
   }
   th {
     background-color: #467399;
+    text-align: left;
+    color: white;
   }
 
   td {
     background-color: #96D4D4;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: royalblue;
+    color: white;
   }
