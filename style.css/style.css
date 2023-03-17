@@ -1,4 +1,9 @@
 .content-center  {
-    text-align: center;
+    text-align: left;
     background-color: lightblue;
 }
+
+#hr-header {
+    border: 3px solid lightblue
+}
+
